@@ -53,7 +53,7 @@ https://reactiveprogramming.io/books/design-patterns/es
 
 
 ## Linux 
-### Kali OS
+### Kali OS
 Installing Docker in Kali Linux 2018.1 and 2019.2
 ```
 https://medium.com/@calypsobronte/installing-docker-in-kali-linux-2018-1-ef3a8ce3648
