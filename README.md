@@ -3,9 +3,6 @@
 ## About this file
 ### Template for .MD files
 https://gist.github.com/richman16/bc4674c780ed0bdbd55702e523e503aa
-'''
-npm install
-'''
 
 ## GIT
 * Cheat sheet
@@ -27,13 +24,13 @@ http://sassdoc.com/getting-started/
 
 ## FRONT END
 ### Implementaciones gratuitas de front end
-'''
+```
 https://zeit.co/home
-'''
+```
 Anteriormente 
-'''
+```
 https://surge.sh/
-'''
+```
 
 ## Tools
 
@@ -51,13 +48,14 @@ Administración de Servidores y DevOps
 https://platzi.com/servidores/
 
 # Libros
+Recomendacion de libro - Introduccion a los patrones de diseño
 https://reactiveprogramming.io/books/design-patterns/es
 
 
 ## Linux 
-
 ### Kali
+
 Installing Docker in Kali Linux 2018.1 and 2019.2
-'''
+```
 https://medium.com/@calypsobronte/installing-docker-in-kali-linux-2018-1-ef3a8ce3648
-'''
+```
