@@ -47,14 +47,13 @@ https://platzi.com/clases/pro-arquitectura/
 Administración de Servidores y DevOps
 https://platzi.com/servidores/
 
-# Libros
+## Libros
 Recomendacion de libro - Introduccion a los patrones de diseño
 https://reactiveprogramming.io/books/design-patterns/es
 
 
 ## Linux 
-### Kali
-
+### Kali OS
 Installing Docker in Kali Linux 2018.1 and 2019.2
 ```
 https://medium.com/@calypsobronte/installing-docker-in-kali-linux-2018-1-ef3a8ce3648
