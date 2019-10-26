@@ -12,7 +12,7 @@ https://ndpsoftware.com/git-cheatsheet.html
 https://github.com/tonsky/FiraCode
 https://sourcefoundry.org/hack/
 
-## Pictures
+## Pictures
 https://unsplash.com/
 
 
