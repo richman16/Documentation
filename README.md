@@ -47,7 +47,7 @@ https://platzi.com/clases/pro-arquitectura/
 Administración de Servidores y DevOps
 https://platzi.com/servidores/
 
-## Libros
+## Libros
 Recomendacion de libro - Introduccion a los patrones de diseño
 https://reactiveprogramming.io/books/design-patterns/es
 
